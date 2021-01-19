@@ -1,4 +1,4 @@
-javascript:(function(){
+(function(){
 		let p = document.getElementsByTagName('p');
 		let h1 = document.getElementsByTagName('h1');
 		let h2 = document.getElementsByTagName('h2');
